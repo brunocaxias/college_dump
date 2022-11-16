@@ -1,0 +1,32 @@
+Compilação de codigos Cygwin:
+
+gcc -wall -pedantic -o 
+
+int main(int argc, char **argv)
+
+
+Variaveis:
+
+Quando for receber um char com scanf colocar um espaço em branco na frente
+
+Unsigned retira o bit que sinaliza sinal
+
+%d - double
+%f - float
+%l - long
+%c - char
+%u - unsigned 
+%h - short
+
+Toda string é um vetor de caracteres mas nem todo vetor de caracteres é uma string, 
+para ser uma string o vetor deve ter um 0 no fim, tendo que ser um real 0 e n um char
+
+
+	   |Arquivo header|
+-----------------------------------
+#ifndef __nomedoarquivo_h_
+#define __nomedoarquivo_h_
+
+
+#endif
+-----------------------------------

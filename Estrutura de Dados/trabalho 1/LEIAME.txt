@@ -1,0 +1,11 @@
+Para compilar o trabalho uso o seguinte código:
+
+* Lembre-se de manter todos os arquivos na mesma pasta
+
+gcc -Wall -pedantic -o Hanoi.exe Hanoi.c Stack.c Functions.c
+
+
+Aluno: Bruno Carvalho Caxias
+
+Fontes de inspiração e referência:
+https://www.geeksforgeeks.org/iterative-tower-of-hanoi/?ref=lbp
